@@ -13,9 +13,6 @@ DavidChangAndroid
 │   ├── aetherslide-tools      aetherSlide internal tools release
 │   ├── chrome_debug           Chrome debug helper
 │   └── KeyboardRecording      Terminal keyboard recorder for SOPs
-├── Docs & notes
-│   ├── aetherside-main        SOP drafts
-│   └── ClickUpPrompt          ClickUp usage guide
 ├── Archived
 │   └── personal_tools         Retired (moved elsewhere)
 └── Personal
@@ -31,7 +28,5 @@ DavidChangAndroid
 | Released tools | [aetherslide-tools](https://github.com/DavidChangAndroid/aetherslide-tools) | public |
 | Released tools | [chrome_debug](https://github.com/DavidChangAndroid/chrome_debug) | public |
 | Released tools | [KeyboardRecording](https://github.com/DavidChangAndroid/KeyboardRecording) | private |
-| Docs & notes | [aetherside-main](https://github.com/DavidChangAndroid/aetherside-main) | private |
-| Docs & notes | [ClickUpPrompt](https://github.com/DavidChangAndroid/ClickUpPrompt) | private |
 | Archived | [personal_tools](https://github.com/DavidChangAndroid/personal_tools) | private |
 | Personal | [104-job-scraper](https://github.com/DavidChangAndroid/104-job-scraper) | public |
