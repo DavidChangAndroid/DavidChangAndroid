@@ -13,10 +13,8 @@ DavidChangAndroid
 │   ├── aetherslide-tools      aetherSlide internal tools release
 │   ├── chrome_debug           Chrome debug helper
 │   └── KeyboardRecording      Terminal keyboard recorder for SOPs
-├── Archived
-│   └── personal_tools         Retired (moved elsewhere)
-└── Personal
-    └── 104-job-scraper        104 job listing filter
+└── Archived
+    └── personal_tools         Retired (moved elsewhere)
 ```
 
 | Category | Repo | Visibility |
@@ -29,4 +27,3 @@ DavidChangAndroid
 | Released tools | [chrome_debug](https://github.com/DavidChangAndroid/chrome_debug) | public |
 | Released tools | [KeyboardRecording](https://github.com/DavidChangAndroid/KeyboardRecording) | private |
 | Archived | [personal_tools](https://github.com/DavidChangAndroid/personal_tools) | private |
-| Personal | [104-job-scraper](https://github.com/DavidChangAndroid/104-job-scraper) | public |
